@@ -1,0 +1,24 @@
+.top-bar {
+    background-color: black;
+    color: white;
+    padding: 1em;
+}
+
+.ui.tabular.menu {
+    background: gray;
+    border-radius: 0;
+}
+
+.ui.tabular.menu .item {
+    border: none;
+}
+
+.footer {
+    text-align: center;
+    color: white;
+    background-color: #212121;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    padding: 15px 0;
+}
